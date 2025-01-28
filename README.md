@@ -21,9 +21,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]https://github.com/alanbiju404  
 ---
 
-## 🐍 GitHub Contribution Snake  
-![GitHub Snake](https://github.com/alanbiju404/alanbiju404/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 🌟 GitHub Stats  
