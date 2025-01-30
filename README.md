@@ -14,6 +14,13 @@
 </p>
 <br />
 
+<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img style="width: 150px; height: 40px;" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img style="width: 150px; height: 40px;" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img style="width: 150px; height: 40px;" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img style="width: 150px; height: 40px;" src="https://img.shields.io/badge/Seaborn-3E6E73?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img style="width: 150px; height: 40px;" src="https://img.shields.io/badge/OOP-1D3557?style=for-the-badge&logo=code&logoColor=white" />
+</p>
 ---
 
 ## 📫 Connect with me  
